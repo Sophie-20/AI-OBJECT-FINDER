@@ -1,0 +1,39 @@
+body {
+    background-size: cover;
+
+}
+
+.heading {
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bolder;
+}
+
+.copyrightfooter {
+    background-color: grey;
+    color: black;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    line-height: 2;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+#start,
+#numberOfObjects,
+#status {
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+}
+
+canvas {
+    border: 2px solid rgb(60, 0, 255);
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px white;
+
+}
